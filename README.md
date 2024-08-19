@@ -1,5 +1,5 @@
 # sftp-jsch
-Project to example to use JSCH library to do communication by SFTP
+Projeto de exemplo utilizando a lib `JSCH`  para realizar a comunicação com o servidor via `SFTP`
 
 
 ## Geração de SSH key
